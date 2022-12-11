@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0361/4510/2892/files/FAQS.jpg)]
+![MasterHead](https://cdn.shopify.com/s/files/1/0361/4510/2892/files/FAQS.jpg)
 <h1 align="center">Hi 👋, I'm Sandipan Mandal</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e474fnyvkydxw4qqcy4wy21ty3gm43y4o6cbd7lzo98&rid=giphy.gif&ct=g">
